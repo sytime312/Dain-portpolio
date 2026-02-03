@@ -1,0 +1,7 @@
+{
+  "name": "Dain - AI Transformation Portfolio",
+  "description": "A futuristic, 3D-infused portfolio for Dain, an AI Education Expert and Transformation Consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
